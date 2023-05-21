@@ -6,19 +6,20 @@ This is simply a multiplayer take on the genre.
 
 Before you can run this client, you will need to be running the server side which you can install by running the commands below:
 This should be done in a separate terminal window as you will need to run the client side in another terminal.
-
+```bash
 git clone https://github.com/lighthouse-labs/snek-multiplayer.git
 cd snek-multiplayer
 npm install
 npm run play
-
+```
 
 ## Final Product
 !["screenshot description"](#)
 
 ## Getting Started
 - Clone the client side using by typing the below commands in your terminal(make sure the server side is already running as explained above)
+```bash
 git clone https://github.com/frankosei70/Snake-Client.git
 cd Snake-Client
-
+```
 - Run the development snake client using the `node play.js` command.
