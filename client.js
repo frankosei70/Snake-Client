@@ -20,10 +20,7 @@ const connect = function () {
     conn.write("Name: FRK");
     
   });
-  
-  
-
-  return conn;
+   return conn;
 };
 
 
