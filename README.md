@@ -23,3 +23,6 @@ git clone https://github.com/frankosei70/Snake-Client.git
 cd Snake-Client
 ```
 - Run the development snake client using the `node play.js` command.
+
+# Acknowledgements
+The snake gif screenshot was taken from the Lighthouse Snake server project (https://github.com/lighthouse-labs/snek-multiplayer.git) 
