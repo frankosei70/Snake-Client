@@ -14,7 +14,7 @@ npm run play
 ```
 
 ## Final Product
-!["screenshot description"](#)
+!["snek.gif"](https://raw.githubusercontent.com/taniarascia/snek/master/snek.gif)
 
 ## Getting Started
 - Clone the client side using by typing the below commands in your terminal(make sure the server side is already running as explained above)
